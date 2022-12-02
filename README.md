@@ -1,5 +1,8 @@
-# Final-project
-오픈소스웨어실습 28조 기말 프로젝트
+# BE THE 1
+[공모전 팀원 모집 사이트](https://bethe1.herokuapp.com/) (오픈소스웨어실습 28조 기말 프로젝트)
+
+## Presentation video
+[유튜브 발표 영상](https://www.youtube.com/watch?v=t-dfnvg7tb8)
 
 ## Overview
 본 프로젝트는 공모전 참여를 위한 팀원 찾기 및 공모전 계획 보조 사이트이다.\
